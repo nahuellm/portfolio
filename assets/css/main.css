@@ -1134,7 +1134,7 @@ input, select, textarea {
 		transition: all 0.2s;
    }
 	.social-link .social-svg:hover .social-group__icon, .social-link .social-svg:active .social-group__icon, .social-link .social-svg:focus .social-group__icon {
-		fill: #fffbfa;
+		fill: #ffffff;
 		transition: all 0.45s;
    }
 	.social-link .social-svg:hover .social-group__inner-circle, .social-link .social-svg:active .social-group__inner-circle, .social-link .social-svg:focus .social-group__inner-circle {
